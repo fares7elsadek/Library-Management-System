@@ -4,7 +4,7 @@ This is a simple Library Management System implemented in C# using Object-Orient
 
 ## UML Diagram
 
-![Library Management System UML Diagram](link)
+![Library Management System UML Diagram](https://github.com/fares7elsadek/Library-Management-System/blob/main/uml/libraryManagementUML.png)
 
 ## Classes and Descriptions
 
